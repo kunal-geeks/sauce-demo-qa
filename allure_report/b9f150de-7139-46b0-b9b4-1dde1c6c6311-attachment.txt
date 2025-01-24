@@ -1,0 +1,9 @@
+INFO     LoginPage:login_page.py:13 Attempting to log in with provided credentials.
+DEBUG    LoginPage:base_page.py:26 Attempting to find element: Locator=id, Value=user-name
+INFO     LoginPage:base_page.py:28 Element found: Locator=id, Value=user-name
+DEBUG    LoginPage:base_page.py:26 Attempting to find element: Locator=id, Value=password
+INFO     LoginPage:base_page.py:28 Element found: Locator=id, Value=password
+DEBUG    LoginPage:base_page.py:26 Attempting to find element: Locator=id, Value=login-button
+INFO     LoginPage:base_page.py:28 Element found: Locator=id, Value=login-button
+INFO     LoginPage:login_page.py:18 Login action performed successfully.
+INFO     InventoryPage:inventory_page.py:31 Product 'Test.allTheThings() T-Shirt (Red)' is displayed on the page.

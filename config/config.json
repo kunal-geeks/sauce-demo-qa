@@ -1,0 +1,6 @@
+{
+    "environment": "https://www.saucedemo.com/",
+    "browser": "chrome",
+    "headless": false
+  }
+  

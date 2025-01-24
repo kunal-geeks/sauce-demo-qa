@@ -1,0 +1,2 @@
+[0;37m2025-01-24 14:23:37 - HeaderComponent - INFO - Checking if the user is logged out.[0m
+[0;37m2025-01-24 14:23:37 - HeaderComponent - INFO - Login button is visible. User is logged out.[0m

@@ -1,0 +1,15 @@
+INFO     LoginPage:login_page.py:13 Attempting to log in with provided credentials.
+DEBUG    LoginPage:base_page.py:26 Attempting to find element: Locator=id, Value=user-name
+INFO     LoginPage:base_page.py:28 Element found: Locator=id, Value=user-name
+DEBUG    LoginPage:base_page.py:26 Attempting to find element: Locator=id, Value=password
+INFO     LoginPage:base_page.py:28 Element found: Locator=id, Value=password
+DEBUG    LoginPage:base_page.py:26 Attempting to find element: Locator=id, Value=login-button
+INFO     LoginPage:base_page.py:28 Element found: Locator=id, Value=login-button
+INFO     LoginPage:login_page.py:18 Login action performed successfully.
+INFO     HeaderComponent:header_component.py:22 Attempting to perform logout.
+INFO     HeaderComponent:header_component.py:50 Checking if the user is logged out.
+INFO     HeaderComponent:header_component.py:55 Login button is not visible. User is logged in.
+INFO     HeaderComponent:header_component.py:30 Locating the menu button.
+INFO     HeaderComponent:header_component.py:33 Menu button clicked.
+INFO     HeaderComponent:header_component.py:36 Locating the logout link.
+INFO     HeaderComponent:header_component.py:39 Logout link clicked. User logged out successfully.

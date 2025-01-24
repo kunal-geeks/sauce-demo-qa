@@ -1,0 +1,21 @@
+[
+    {
+      "pageName": "LoginPage",
+      "name": "username_input",
+      "locateUsing": "id",
+      "locator": "user-name"
+    },
+    {
+      "pageName": "LoginPage",
+      "name": "password_input",
+      "locateUsing": "id",
+      "locator": "password"
+    },
+    {
+      "pageName": "LoginPage",
+      "name": "login_button",
+      "locateUsing": "id",
+      "locator": "login-button"
+    }
+  ]
+  

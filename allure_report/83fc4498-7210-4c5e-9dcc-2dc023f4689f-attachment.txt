@@ -1,0 +1,2 @@
+INFO     HeaderComponent:header_component.py:50 Checking if the user is logged out.
+INFO     HeaderComponent:header_component.py:52 Login button is visible. User is logged out.

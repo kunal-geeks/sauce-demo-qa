@@ -1,0 +1,68 @@
+{
+  "valid_logins": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "expected_result": "success"
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce",
+      "expected_result": "success"
+    },
+    {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce",
+      "expected_result": "success"
+    },
+    {
+      "username": "visual_user",
+      "password": "secret_sauce",
+      "expected_result": "success"
+    },
+    {
+      "username": "error_user",
+      "password": "secret_sauce",
+      "expected_result": "failure"
+    }
+  ],
+  "invalid_logins": [
+    {
+      "username": "locked_out_user",
+      "password": "secret_sauce",
+      "expected_result": "failure"
+    },
+    {
+      "username": "invalid_user",
+      "password": "wrong_password",
+      "expected_result": "failure"
+    }
+  ],
+  "edge_case_logins": [
+    {
+      "username": "",
+      "password": "secret_sauce",
+      "expected_result": "failure"
+    },
+    {
+      "username": "standard_user",
+      "password": "",
+      "expected_result": "failure"
+    },
+    {
+      "username": "",
+      "password": "",
+      "expected_result": "failure"
+    },
+    {
+      "username": "invalid_user",
+      "password": "secret_sauce",
+      "expected_result": "failure"
+    },
+    {
+      "username": "standard_user",
+      "password": "wrong_password",
+      "expected_result": "failure"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[0;37m2025-01-24 14:23:13 - LoginPage - INFO - Attempting to log in with provided credentials.[0m
+[0;37m2025-01-24 14:23:13 - LoginPage - INFO - Element found: Locator=id, Value=user-name[0m
+[0;37m2025-01-24 14:23:13 - LoginPage - INFO - Element found: Locator=id, Value=password[0m
+[0;37m2025-01-24 14:23:13 - LoginPage - INFO - Element found: Locator=id, Value=login-button[0m
+[0;37m2025-01-24 14:23:13 - LoginPage - INFO - Login action performed successfully.[0m
+[0;37m2025-01-24 14:23:13 - InventoryPage - INFO - Navigated to the cart page successfully.[0m
+[0;37m2025-01-24 14:23:13 - InventoryPage - INFO - Cart page loaded and 'Your Cart' title is visible.[0m

@@ -1,0 +1,6 @@
+[0;37m2025-01-24 14:23:17 - LoginPage - INFO - Attempting to log in with provided credentials.[0m
+[0;37m2025-01-24 14:23:17 - LoginPage - INFO - Element found: Locator=id, Value=user-name[0m
+[0;37m2025-01-24 14:23:18 - LoginPage - INFO - Element found: Locator=id, Value=password[0m
+[0;37m2025-01-24 14:23:18 - LoginPage - INFO - Element found: Locator=id, Value=login-button[0m
+[0;37m2025-01-24 14:23:18 - LoginPage - INFO - Login action performed successfully.[0m
+[0;37m2025-01-24 14:23:18 - InventoryPage - INFO - Products sorted by 'Name (A to Z)'.[0m
