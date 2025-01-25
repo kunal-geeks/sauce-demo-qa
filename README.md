@@ -36,6 +36,8 @@ This project is a **Test Automation Framework** built using **Selenium** and **P
 
 ## How to Set Up
 
+- prerequisite - Clone this repo open the project in VScode editor
+
 ### 1. Create a Virtual Environment
 
 Run the following commands to create and activate a virtual environment:
@@ -57,6 +59,8 @@ pip install -r requirements.txt
 ---
 
 ## How to Run Tests
+
+- Firstly delete the previous allure_report folder 
 
 ### 1. Run Tests
 
