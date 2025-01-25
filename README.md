@@ -80,6 +80,8 @@ allure serve allure_report
 pytest -n <number_of_parallel_processes> --alluredir=allure_report
 ```
 
+### 4. see all the logs in the automation.log file
+
 ## Conclusion
 
 This framework simplifies UI automation for the Sauce Demo application, providing modular design, robust error handling, and detailed reporting. It can be extended to include additional test scenarios and integrated into CI/CD pipelines for automated execution.
