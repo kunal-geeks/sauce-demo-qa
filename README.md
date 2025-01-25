@@ -80,7 +80,7 @@ allure serve allure_report
 pytest -n <number_of_parallel_processes> --alluredir=allure_report
 ```
 
-### 4. see all the logs in the automation.log file
+### 4. See all the logs in the automation.log file
 
 ## Conclusion
 
