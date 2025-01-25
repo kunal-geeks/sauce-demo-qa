@@ -36,7 +36,7 @@ This project is a **Test Automation Framework** built using **Selenium** and **P
 
 ## How to Set Up
 
-- prerequisite - Clone this repo open the project in VScode editor
+- prerequisite - clone this repo open the project in VScode editor
 
 ### 1. Create a Virtual Environment
 
